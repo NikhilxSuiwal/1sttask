@@ -1,0 +1,40 @@
+        .head{
+            background-image: url(/img/Pink\ and\ Blue\ Modern\ Fashion\ Banner.png);
+            text-align: center;
+            font-size: 100px;
+            color: crimson;
+            font-family: fantasy;
+
+            
+            
+        }
+        .main{
+            background-color: rgb(7, 7, 18);
+        }
+        .para{
+            color: aquamarine;
+            font-size: 25px;
+            font-family: cursive;
+        }
+        .para2{
+            color: aquamarine;
+            font-size: 25px;
+            font-family: cursive;
+            text-align: right;
+        }
+        .head2{
+            background-color: darkslategray;
+            text-align: center;
+            font-size: 65px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: linen; 
+        }
+        th, td{
+            border: 4px solid white;
+            border-radius: 10px;
+        }
+        .imgup img{
+            
+            border-radius: 50%;
+            background-color: antiquewhite;
+        }
