@@ -1,5 +1,5 @@
         .head{
-            background-image: url(../img/Pink and Blue Modern Fashion Banner.png);
+            background-image: url('./img/Pink and Blue Modern Fashion Banner.png');
             text-align: center;
             font-size: 100px;
             color: crimson;
